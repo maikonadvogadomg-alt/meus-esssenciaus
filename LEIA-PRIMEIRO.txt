@@ -1,0 +1,21 @@
+ESSENCIAL DO MAIKON — tudo o que vale guardar, num lugar só (20/10)
+
+1-Mini-SK
+  Mini-SK-celular-v20-10-D.zip ...... o Mini SK atual (Termux, Importar, Publicar). Lá em cima aparece v20/10-D.
+  Mini-SK-computador-v20-10-D.zip ... o mesmo, para virar .exe pelo GitHub.
+
+2-Ferramentas (cada uma é um arquivo só — abre pelo Chrome)
+  Faxina-de-Repetidos.html ........... acha e separa arquivos repetidos (para liberar espaço no celular)
+  Picotador-de-Memoria.html .......... corta e divide memórias, backups e conversas
+  Montador-Universal.html ............ abre qualquer arquivo (PDF, Word, Excel…) e cria modelos de regras
+  Laboratorio-novo-21-10.html ........ projetos separados, plano macro e comparar duas versões
+  Laboratorio-antigo-19-10.html ...... o laboratório anterior (com as ferramentas dentro)
+
+3-Reserva (versoes que ja funcionavam)
+  Mini SK 17/10 do celular e do computador — se a nova der problema, volte para estes.
+
+IMPORTANTE
+- Os seus PROJETOS do Mini SK ficam guardados DENTRO do navegador, não nestes arquivos.
+  Pode apagar instaladores e zips antigos à vontade: os projetos continuam lá.
+- NÃO limpe os "dados do site" do Chrome: isso sim apagaria os projetos.
+- Antes de qualquer faxina grande: no Mini SK, 🗂 Projetos → ⤓ Baixar backup de tudo.
